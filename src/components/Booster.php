@@ -255,7 +255,7 @@ class Booster extends CApplicationComponent {
 		
 		$this->appendUserSuppliedPackagesToOurs();
 
-		$this->addOurPackagesToYii();
+//		$this->addOurPackagesToYii();
 
 		$this->registerCssPackagesIfEnabled();
 
